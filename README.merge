@@ -1,0 +1,5 @@
+git checkout destination
+git checkout source newFeature/
+git commit -am "Merged the new feature from source to destination branch."
+git pull --rebase
+git push
