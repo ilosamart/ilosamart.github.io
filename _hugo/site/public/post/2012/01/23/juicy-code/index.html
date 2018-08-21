@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-	<meta name="generator" content="Hugo 0.40.1" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home | Classic</title>
+    <title>Juicy Code | Classic</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     <link rel="stylesheet" href="/css/theme-override.css">
@@ -18,12 +17,12 @@
     <ul>
       
       
-      <li class="pull-left current">
+      <li class="pull-left ">
         <a href="/">/home/classic</a>
       </li>
       
       
-      <li class="pull-left current">
+      <li class="pull-left ">
         <a href="/">~/home</a>
       </li>
       
@@ -54,67 +53,46 @@
   <body>
     <br/>
 
+<div class="article-meta">
+<h1><span class="title">Juicy Code</span></h1>
+<h2 class="author">Open Source</h2>
+<h2 class="date">2012/01/23</h2>
+<p class="terms">
+  
+  
+  Categories: <a href="/categories/code">Code</a> 
+  
+  
+  
+  Tags: <a href="/tags/juicy">Juicy</a> 
+  
+  
+</p>
+</div>
 
 
 
+<main>
+<p>Check out this JUICY! code:</p>
 
+<pre><code class="language-ruby">def with_value_from_database(value)
+  self.class.from_database(name, value, type)
+end
 
-<p><img src="/images/eu-profile.jpg" style="margin-left: 5px; max-width:15%;min-width:40px;float:right;" alt="Fábio Tramasoli" /></p>
+def with_cast_value(value)
+  self.class.with_cast_value(name, value, type)
+end
 
-<h1 id="fábio-benites-tramasoli">Fábio Benites Tramasoli</h1>
-
-<p>I&rsquo;m a jack of all trades currently working as a python developer.</p>
-
-<p>I love to share technical stuff and my poor poetry :)</p>
-
-<pre><code class="language-python">def working_experience():
-  companies = (
-    ('2017', 'Ministério Público do Estado do Rio Grande do Sul - MPRS'),
-    ('2007..2017', 'Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS'),
-    ('2006..2007', 'Departamento Nacional de Produção Mineral - DNPM'),
-    ('2005..2006', 'Refinaria de Petróleo Riograndense'),
-  )
-  for period, company in companies:
-    print('Period: {} / Company: {}'.format(period, company))
-
-if __name__ == '__main__':
-  working_experience()
-
+def with_type(type)
+  if changed_in_place?
+    with_value_from_user(value).with_type(type)
+  else
+    self.class.new(name, value_before_type_cast, type, original_attribute)
+  end
+end
 </code></pre>
 
-<hr/>
-
-<h3 id="blog">Blog</h3>
-
-
-<ul>
-  
-  <li>
-    <span class="date">2018/08/20</span>
-    <a href="/post/2018/08/20/yanb/">YANB</a>
-  </li>
-  
-  <li>
-    <span class="date">2014/03/14</span>
-    <a href="/post/2014/03/14/markdown-guide/">Markdown Guide</a>
-  </li>
-  
-  <li>
-    <span class="date">2012/04/23</span>
-    <a href="/post/2012/04/23/hacker-with-horn/">Hacker with Bullhorn</a>
-  </li>
-  
-  <li>
-    <span class="date">2012/03/12</span>
-    <a href="/post/2012/03/12/command-line-awesomeness/">Command Line Awesomeness</a>
-  </li>
-  
-  <li>
-    <span class="date">2012/01/23</span>
-    <a href="/post/2012/01/23/juicy-code/">Juicy Code</a>
-  </li>
-  
-</ul>
+</main>
 
     <footer>
       

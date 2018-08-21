@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Classic</title>
+    <link>/categories/code/</link>
+    <description>Recent content in Code on Classic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>YANB</title>
+      <link>/post/2018/08/20/yanb/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/08/20/yanb/</guid>
+      <description>Yup, a new shinny blog arises. For about two years now my blog is hosted by Umbler, they give you R$ 100,00 (one hundred brazilian reais) credit, so I decided to try it. Unfortunately they don&amp;rsquo;t offer support for Django/Flask (web frameworks for python) - and it doesn&amp;rsquo;t seem that they&amp;rsquo;ll do in the near future - hence I built the blog on Wordpress. My lazyness stops me from messing arround somethin that ain&amp;rsquo;t broke and the blog stood that way until now.</description>
+    </item>
+    
+    <item>
+      <title>Juicy Code</title>
+      <link>/post/2012/01/23/juicy-code/</link>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2012/01/23/juicy-code/</guid>
+      <description>Check out this JUICY! code:
+def with_value_from_database(value) self.class.from_database(name, value, type) end def with_cast_value(value) self.class.with_cast_value(name, value, type) end def with_type(type) if changed_in_place? with_value_from_user(value).with_type(type) else self.class.new(name, value_before_type_cast, type, original_attribute) end end  </description>
+    </item>
+    
+  </channel>
+</rss>

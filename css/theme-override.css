@@ -1,0 +1,13 @@
+footer { font-size: 90%; font-family: monospace; }
+
+header {
+    background: orangered;
+}
+
+.article-meta {
+    background-color: navy;
+}
+
+a {
+    color: orangered;
+}
