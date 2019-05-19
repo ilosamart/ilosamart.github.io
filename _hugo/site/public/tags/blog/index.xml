@@ -20,5 +20,14 @@
       <description>Yup, a new shinny blog arises. For about two years now my blog is hosted by Umbler, they give you R$ 100,00 (one hundred brazilian reais) credit, so I decided to try it. Unfortunately they don&amp;rsquo;t offer support for Django/Flask (web frameworks for python) - and it doesn&amp;rsquo;t seem that they&amp;rsquo;ll do in the near future - hence I built the blog on Wordpress. My lazyness stops me from messing arround somethin that ain&amp;rsquo;t broke and the blog stood that way until now.</description>
     </item>
     
+    <item>
+      <title>Free Software is a Communist Movement</title>
+      <link>/post/2018/04/14/flosscommunism/</link>
+      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018/04/14/flosscommunism/</guid>
+      <description>Yup, a new shinny blog arises. For about two years now my blog is hosted by Umbler, they give you R$ 100,00 (one hundred brazilian reais) credit, so I decided to try it. Unfortunately they don&amp;rsquo;t offer support for Django/Flask (web frameworks for python) - and it doesn&amp;rsquo;t seem that they&amp;rsquo;ll do in the near future - hence I built the blog on Wordpress. My lazyness stops me from messing arround somethin that ain&amp;rsquo;t broke and the blog stood that way until now.</description>
+    </item>
+    
   </channel>
 </rss>

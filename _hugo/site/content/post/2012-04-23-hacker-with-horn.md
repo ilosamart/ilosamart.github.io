@@ -6,6 +6,7 @@ categories:
   - Bullhorn
   - Example
 slug: hacker-with-horn
+draft: true
 ---
 
 Hacker with bullhorn: "Save your money! Accept one of our free tanks! It is invulnerable, and can drive across rocks and swamps at ninety miles an hour while getting a hundred miles to the gallon!"

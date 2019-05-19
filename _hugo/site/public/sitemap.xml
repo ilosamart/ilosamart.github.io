@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/post/2018/04/14/flosscommunism/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2014/03/14/markdown-guide/</loc>
     <lastmod>2014-03-14T00:00:00+00:00</lastmod>
   </url>
@@ -60,6 +65,12 @@
   <url>
     <loc>/categories/example/</loc>
     <lastmod>2014-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/floss/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

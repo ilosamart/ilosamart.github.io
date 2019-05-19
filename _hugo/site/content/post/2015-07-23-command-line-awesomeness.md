@@ -5,6 +5,7 @@ categories:
   - Blog
 tags:
   - HTML
+draft: true
 ---
 
 This crud is called HTML (HyperText Markup Language) and it is basically a very simple programming language instructing your web browser how to draw a page on a screen. Anyone can learn HTML and many people do. The important thing is that no matter what splendid multimedia web pages they might represent, HTML files are just telegrams.
