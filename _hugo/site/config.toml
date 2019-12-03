@@ -1,7 +1,6 @@
 baseurl = "/"
 languageCode = "pt-br"
 title = "ilosamart"
-# theme = "hugo-classic"
 theme = "cupper-hugo-theme"
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
