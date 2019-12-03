@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "pt-br"
 title = "ilosamart"
 theme = "cupper-hugo-theme"
+
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
