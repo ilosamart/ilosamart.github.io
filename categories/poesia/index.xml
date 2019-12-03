@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poesia on ilosamart</title>
+    <link>/categories/poesia/</link>
+    <description>Recent content in poesia on ilosamart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/poesia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sabedoria</title>
+      <link>/post/2019/12/02/poesia-sabedoria/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/02/poesia-sabedoria/</guid>
+      <description>Sabedoria os gaio se mexe, mas nem sempre as fôia cai
+pode vim vento soprá bem de perto
+que os gaio esperto sabe cumé que sai
+e se a arve toda balançá
+é uma dança de fôia no ar
+umas cai com muita pressa
+as otra quase que frutua
+porque sabe que numa dessa
+vê mais perto a dona lua</description>
+    </item>
+    
+  </channel>
+</rss>

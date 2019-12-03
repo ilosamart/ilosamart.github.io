@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Classic</title>
+    <title>Posts on ilosamart</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Classic</description>
+    <description>Recent content in Posts on ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>YANB</title>
-      <link>/post/2018/08/20/yanb/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      <title>Sabedoria</title>
+      <link>/post/2019/12/02/poesia-sabedoria/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018/08/20/yanb/</guid>
-      <description>Yup, a new shinny blog arises. For about two years now my blog is hosted by Umbler, they give you R$ 100,00 (one hundred brazilian reais) credit, so I decided to try it. Unfortunately they don&amp;rsquo;t offer support for Django/Flask (web frameworks for python) - and it doesn&amp;rsquo;t seem that they&amp;rsquo;ll do in the near future - hence I built the blog on Wordpress. My lazyness stops me from messing arround somethin that ain&amp;rsquo;t broke and the blog stood that way until now.</description>
+      <guid>/post/2019/12/02/poesia-sabedoria/</guid>
+      <description>Sabedoria os gaio se mexe, mas nem sempre as fôia cai
+pode vim vento soprá bem de perto
+que os gaio esperto sabe cumé que sai
+e se a arve toda balançá
+é uma dança de fôia no ar
+umas cai com muita pressa
+as otra quase que frutua
+porque sabe que numa dessa
+vê mais perto a dona lua</description>
+    </item>
+    
+    <item>
+      <title>Yet A New Blog</title>
+      <link>/post/2019/12/02/yanb/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019/12/02/yanb/</guid>
+      <description>Lá vamos nós novamente com essa história de blog. Já publiquei meus pensamentos no blogger, thumblr, medium e em um blog hospedado na Umbler. Já faz um tempo que deixei um esqueleto de blog no GitHub com o pages e compilando em conteúdo estático com o Hugo.
+Mesmo com isso tudo, o conteúdo não era publicado. Agora vai ser diferente: o compromisso é publicar ao menos uma vez por semana alguma coisa, não que seja um conteúdo relevante, mas que seja algo que eu tenha interesse em falar ou alguma poesia das velhas.</description>
     </item>
     
   </channel>
