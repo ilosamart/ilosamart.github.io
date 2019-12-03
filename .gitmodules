@@ -1,3 +1,15 @@
 [submodule "_hugo/site/themes/hugo-classic"]
 	path = _hugo/site/themes/hugo-classic
 	url = https://github.com/goodroot/hugo-classic.git
+[submodule "_hugo/site/themes/hyde-hyde"]
+	path = _hugo/site/themes/hyde-hyde
+	url = https://github.com/htr3n/hyde-hyde.git
+[submodule "_hugo/themes/hugo-ink"]
+	path = _hugo/themes/hugo-ink
+	url = https://github.com/knadh/hugo-ink.git
+[submodule "_hugo/site/themes/hugo-ink"]
+	path = _hugo/site/themes/hugo-ink
+	url = https://github.com/knadh/hugo-ink.git
+[submodule "_hugo/site/themes/cupper-hugo-theme"]
+	path = _hugo/site/themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
