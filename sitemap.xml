@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/code/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,8 +38,18 @@
   </url>
   
   <url>
-    <loc>/post/2019/12/02/yanb/</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <loc>/tags/blog/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/code/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019/12/01/yanb/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

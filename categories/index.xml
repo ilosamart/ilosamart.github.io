@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>code</title>
-      <link>/categories/code/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>poesia</title>
       <link>/categories/poesia/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/poesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>/categories/code/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/code/</guid>
       <description></description>
     </item>
     
