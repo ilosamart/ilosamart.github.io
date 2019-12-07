@@ -1,16 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://fabio.tramasoli.com/pt/sitemap.xml</loc>
-		
-	   	<lastmod>2019-12-02T00:00:00+00:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://fabio.tramasoli.com/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/sobre-o-autor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/categories/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/tags/poesia/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/categories/poesia/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/post/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/post/poesia-sabedoria/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/tags/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/tags/blog/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/categories/code/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/post/yanb/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/series/</loc>
+  </url>
+  
+</urlset>
