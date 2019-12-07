@@ -3,57 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://fabio.tramasoli.com/categories/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://fabio.tramasoli.com/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/poesia/</loc>
+    <loc>https://fabio.tramasoli.com/tags/poesia/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/poesia/</loc>
+    <loc>https://fabio.tramasoli.com/categories/poesia/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://fabio.tramasoli.com/post/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2019/12/02/poesia-sabedoria/</loc>
+    <loc>https://fabio.tramasoli.com/post/poesia-sabedoria/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://fabio.tramasoli.com/tags/</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/blog/</loc>
+    <loc>https://fabio.tramasoli.com/tags/blog/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/code/</loc>
+    <loc>https://fabio.tramasoli.com/categories/code/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2019/12/01/yanb/</loc>
+    <loc>https://fabio.tramasoli.com/post/yanb/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://fabio.tramasoli.com/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fabio.tramasoli.com/about/</loc>
   </url>
   
 </urlset>

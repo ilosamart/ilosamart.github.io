@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on ilosamart</title>
-    <link>/tags/blog/</link>
-    <description>Recent content in blog on ilosamart</description>
+    <title>blog on oibaf ilosamart</title>
+    <link>https://fabio.tramasoli.com/tags/blog/</link>
+    <description>Recent content in blog on oibaf ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
     <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fabio.tramasoli.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Yet A New Blog</title>
-      <link>/post/2019/12/01/yanb/</link>
+      <link>https://fabio.tramasoli.com/post/yanb/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/2019/12/01/yanb/</guid>
+      <guid>https://fabio.tramasoli.com/post/yanb/</guid>
       <description>Lá vamos nós novamente com essa história de blog. Já publiquei meus pensamentos no blogger, thumblr, medium e em um blog hospedado na Umbler. Já faz um tempo que deixei um esqueleto de blog no GitHub com o pages e compilando em conteúdo estático com o Hugo.
 Mesmo com isso tudo, o conteúdo não era publicado. Agora vai ser diferente: o compromisso é publicar ao menos uma vez por semana alguma coisa, não que seja um conteúdo relevante, mas que seja algo que eu tenha interesse em falar ou alguma poesia das velhas.</description>
     </item>
