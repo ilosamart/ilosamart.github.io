@@ -11,6 +11,18 @@
     
     
     <item>
+      <title>Sobre o autor</title>
+      <link>https://fabio.tramasoli.com/sobre-o-autor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/sobre-o-autor/</guid>
+      <description>Fábio Benites Tramasoli Operário da tecnologia da informação. Passo cabos, lavo códigos e cozinho café.
+Estamos aqui para falar sobre TI, cotidiano, publicar poesias toscas e o que mais vier à minha cabeça.
+Minha experiência de trabalho escrita em python:
+def experiencia_profissional(): organizações = { &amp;#39;2017..ainda&amp;#39;: &amp;#39;Ministério Público do Estado do Rio Grande do Sul - MPRS&amp;#39;, &amp;#39;2007..2017&amp;#39;: &amp;#39;Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS&amp;#39;, &amp;#39;2006.</description>
+    </item>
+    
+    <item>
       <title>Sabedoria</title>
       <link>https://fabio.tramasoli.com/post/poesia-sabedoria/</link>
       <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
@@ -35,17 +47,6 @@ vê mais perto a dona lua</description>
       <guid>https://fabio.tramasoli.com/post/yanb/</guid>
       <description>Lá vamos nós novamente com essa história de blog. Já publiquei meus pensamentos no blogger, thumblr, medium e em um blog hospedado na Umbler. Já faz um tempo que deixei um esqueleto de blog no GitHub com o pages e compilando em conteúdo estático com o Hugo.
 Mesmo com isso tudo, o conteúdo não era publicado. Agora vai ser diferente: o compromisso é publicar ao menos uma vez por semana alguma coisa, não que seja um conteúdo relevante, mas que seja algo que eu tenha interesse em falar ou alguma poesia das velhas.</description>
-    </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>https://fabio.tramasoli.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://fabio.tramasoli.com/about/</guid>
-      <description>Fábio Benites Tramasoli Passo cabos, lavo códigos e cozinho café.
-Estamos aqui para falar sobre TI e publicar poesias toscas.
-def working_experience(): companies = { &amp;#39;2017..today&amp;#39;: &amp;#39;Ministério Público do Estado do Rio Grande do Sul - MPRS&amp;#39;, &amp;#39;2007..2017&amp;#39;: &amp;#39;Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS&amp;#39;, &amp;#39;2006..2007&amp;#39;: &amp;#39;Departamento Nacional de Produção Mineral - DNPM&amp;#39;, &amp;#39;2005..2006&amp;#39;: &amp;#39;Refinaria de Petróleo Riograndense&amp;#39;, } for period, company in companies.iteritems(): print(&amp;#39;Period: {} / Company: {}&amp;#39;.</description>
     </item>
     
   </channel>
