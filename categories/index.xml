@@ -5,10 +5,19 @@
     <link>https://fabio.tramasoli.com/categories/</link>
     <description>Recent content in Categories on oibaf ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fabio.tramasoli.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://fabio.tramasoli.com/categories/blog/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/categories/blog/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>poesia</title>
