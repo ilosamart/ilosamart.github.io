@@ -5,7 +5,7 @@
     <link>https://fabio.tramasoli.com/</link>
     <description>Recent content on oibaf ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fabio.tramasoli.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,7 +19,16 @@
       <description>Fábio Benites Tramasoli Operário da tecnologia da informação. Passo cabos, lavo códigos e cozinho café.
 Estamos aqui para falar sobre TI, cotidiano, publicar poesias toscas e o que mais vier à minha cabeça.
 Minha experiência de trabalho escrita em python:
-def experiência_profissional(): organizações = { &amp;#39;2017..ainda&amp;#39;: &amp;#39;Ministério Público do Estado do Rio Grande do Sul - MPRS&amp;#39;, &amp;#39;2007..2017&amp;#39;: &amp;#39;Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS&amp;#39;, &amp;#39;2006.</description>
+def experiência_profissional(): organizações = { &amp;#39;2017..atual&amp;#39;: &amp;#39;Ministério Público do Estado do Rio Grande do Sul - MPRS&amp;#39;, &amp;#39;2007..2017&amp;#39;: &amp;#39;Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS&amp;#39;, &amp;#39;2006.</description>
+    </item>
+    
+    <item>
+      <title>O idiota superior</title>
+      <link>https://fabio.tramasoli.com/post/idiota-superior/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/post/idiota-superior/</guid>
+      <description>Na tecnologia da informação, infelizmente, durante muito tempo foi bonito ser arrogante, era uma relação indireta que se fazia: quanto mais idiota o programador (ou o cara do suporte, ou o administrador de rede, &amp;hellip;), mais competente ele era. Isso criou a figura do idiota superior, aquele colega de trabalho que tinha carta branca pra maltratar a quem quisesse ou simplesmente se dizer o único competente para resolver os assuntos complicados.</description>
     </item>
     
     <item>

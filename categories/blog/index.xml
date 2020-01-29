@@ -5,10 +5,19 @@
     <link>https://fabio.tramasoli.com/categories/blog/</link>
     <description>Recent content in blog on oibaf ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fabio.tramasoli.com/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O idiota superior</title>
+      <link>https://fabio.tramasoli.com/post/idiota-superior/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/post/idiota-superior/</guid>
+      <description>Na tecnologia da informação, infelizmente, durante muito tempo foi bonito ser arrogante, era uma relação indireta que se fazia: quanto mais idiota o programador (ou o cara do suporte, ou o administrador de rede, &amp;hellip;), mais competente ele era. Isso criou a figura do idiota superior, aquele colega de trabalho que tinha carta branca pra maltratar a quem quisesse ou simplesmente se dizer o único competente para resolver os assuntos complicados.</description>
+    </item>
     
     <item>
       <title>Free Software e a Ética Socialista</title>
