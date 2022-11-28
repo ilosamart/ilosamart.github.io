@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ti on oibaf ilosamart</title>
     <link>https://fabio.tramasoli.com/tags/ti/</link>
     <description>Recent content in ti on oibaf ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://fabio.tramasoli.com/tags/ti/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabio.tramasoli.com/tags/ti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full stack developer</title>
+      <link>https://fabio.tramasoli.com/post/full-stack-developer/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/post/full-stack-developer/</guid>
+      <description>Artigo de opinião altamente influenciado pela minha experiência e por: The hard truth about the full stack developer. Myths and lies. e The Rise of The Unicorns AKA “Full-Stack Developers”.
+ Participei faz tempo de um treinamento em React e React Native lá na firma, foi muito proveitoso e interessante já que não me considero um desenvolvedor frontend. Em certo dia (naqueles tempos livres) houve um debate sobre full stack developer, surgiu a necessidade de expressar aqui o que penso disso, eis o artigo.</description>
+    </item>
     
     <item>
       <title>O idiota superior</title>
@@ -26,7 +32,7 @@
       
       <guid>https://fabio.tramasoli.com/post/floss-socialismo/</guid>
       <description>Aviso: não sou expert em economia, sociologia, filosofia, história, marxismo, socialismo ou afins, essa é uma visão particular sobre um tópico corriqueiro e, acredito, mal-interpretado, na comunidade Free Libre Open Source (FLOSS).
-Fortemente influenciado pelo seguinte artigo: How to Be an Anticapitalist Today .
+  Fortemente influenciado pelo seguinte artigo: How to Be an Anticapitalist Today .
  Antes de entrarmos no cerne da questão, ressalto que me considero um socialista e estou envolvido com free software (prefiro esse termo ao open source, daí se deriva alguma coisa) há vinte anos, quase sempre como entusiasta e usuário (majoritariamente com Linux e seu ecossistema).</description>
     </item>
     

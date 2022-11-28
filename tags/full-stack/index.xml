@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>full stack on oibaf ilosamart</title>
+    <link>https://fabio.tramasoli.com/tags/full-stack/</link>
+    <description>Recent content in full stack on oibaf ilosamart</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabio.tramasoli.com/tags/full-stack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full stack developer</title>
+      <link>https://fabio.tramasoli.com/post/full-stack-developer/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/post/full-stack-developer/</guid>
+      <description>Artigo de opinião altamente influenciado pela minha experiência e por: The hard truth about the full stack developer. Myths and lies. e The Rise of The Unicorns AKA “Full-Stack Developers”.
+ Participei faz tempo de um treinamento em React e React Native lá na firma, foi muito proveitoso e interessante já que não me considero um desenvolvedor frontend. Em certo dia (naqueles tempos livres) houve um debate sobre full stack developer, surgiu a necessidade de expressar aqui o que penso disso, eis o artigo.</description>
+    </item>
+    
+  </channel>
+</rss>

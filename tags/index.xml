@@ -1,14 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on oibaf ilosamart</title>
     <link>https://fabio.tramasoli.com/tags/</link>
     <description>Recent content in Tags on oibaf ilosamart</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabio.tramasoli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>full stack</title>
+      <link>https://fabio.tramasoli.com/tags/full-stack/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/tags/full-stack/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://fabio.tramasoli.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>ti</title>
+      <link>https://fabio.tramasoli.com/tags/ti/</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabio.tramasoli.com/tags/ti/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ambiente de trabalho</title>
@@ -16,15 +30,6 @@
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fabio.tramasoli.com/tags/ambiente-de-trabalho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ti</title>
-      <link>https://fabio.tramasoli.com/tags/ti/</link>
-      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fabio.tramasoli.com/tags/ti/</guid>
       <description></description>
     </item>
     
